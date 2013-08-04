@@ -1,5 +1,7 @@
 # some common additional bash settings
 alias vless='/usr/share/vim/vimcurrent/macros/less.sh'
+alias pd='pushd'
 
+umask 002
 export PATH=$PATH:/home/weiwei/bin:/home/weiwei/fountain/lire/:/home/weiwei/fountain/tools/
 export PYTHONPATH=/home/weiwei/fountain
